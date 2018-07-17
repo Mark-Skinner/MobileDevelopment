@@ -1,0 +1,10 @@
+﻿This project is an attempt to create a simple game to help learn the names of your colleagues.
+Unfortunately, Mark isn't very good at creating pretty user interfaces, so it isn't that great.
+On top of that, Mark's computer is pretty bad so debugging with an emulator took ages.
+
+With his minimal experience with Android programming, Mark did his best to create an awesome application.
+Did he manage to pull it off? Of course not, this application looks atrocious. Luckily, Mark was happy
+that he could start learning how to use Xamarin to develop Android mobile applications. He is
+excited to continue expanding his knowledge in mobile development, even if it isn't necessarily with WillowTree.
+
+Hope you enjoy the app!

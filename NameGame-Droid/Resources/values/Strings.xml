@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Welcome to the Name Game!</string>
+  <string name="ApplicationName">Name Game</string>
+  <string name="AppDescription">The game where you try to guess who\'s who!</string>
+</resources>
